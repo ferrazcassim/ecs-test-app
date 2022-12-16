@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/ecs-test-project.props" />
+</Project>

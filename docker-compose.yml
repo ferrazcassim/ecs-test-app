@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  ecs-test-project:
+    image: ${DOCKER_REGISTRY-}ecstestproject
+    build:
+      context: .
+      dockerfile: ecs-test-project/Dockerfile

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "D7EEeu6QrW48yrS6mQqD/K76d4SAMtE+TZ/L/u97CBo=",
+  "Source": "ecs-test-project",
+  "BasePath": "_content/ecs-test-project",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
